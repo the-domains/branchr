@@ -1,0 +1,28 @@
+name: Branchr
+favicon: null
+layout_spectrum: 0.8635971616022289
+typography_spectrum: 0.5355655243620276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.25778928166255355
+  lightness: 0.9564829547889531
+  saturation: 0.44017672701738775
+  rhythmicContrast: 0.5334363302681595
+purpose: []
